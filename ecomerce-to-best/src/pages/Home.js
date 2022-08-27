@@ -20,7 +20,7 @@ return (
   //  {showModal? console.log("sadesa") : console.log("sadesaaaa")}
 
 <section className="centrado">
-<h1 className="titulo"> BIENVENIDOS A NATURAL DELI</h1>
+<h1 className="titulo"> BIENVENIDOS A ecomerce to best</h1>
 
 
 
